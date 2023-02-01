@@ -1,0 +1,23 @@
+.App{
+ 
+    justify-content: center;
+    display: flex;
+    background-color: blanchedalmond;
+    
+}
+h1{
+       margin-top: 10%;
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 50%;
+    color: antiquewhite;
+}
+h2{
+    text-align: center;
+      background-color: rgb(223, 170, 194);
+    border-radius: 25%;
+    color:rgb(99, 21, 172);
+}
+img{
+    border-radius: 50%;
+}
